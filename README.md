@@ -11,7 +11,7 @@ Proyecto enfocado en practicar *lógica de programación*.
 - *Limpieza* automática del input tras cada registro.
 - *Mensajes de estado* claros (validación, éxito, agotamiento de sorteos).
 
-## Tecnologías
+## Tecnologías 
 
 - *HTML5* 
 - *CSS3* 
@@ -19,7 +19,7 @@ Proyecto enfocado en practicar *lógica de programación*.
 
 ## Estructura sugerida del proyecto
 
-> Puedes adaptar nombres y carpetas a tu gusto. El código JS que compartiste va en app.js.
+> Puedes modificar nombres y carpetas a tu gusto. El código JS se los dejo en la capeta app.js.
 
 ## Comportamiento y reglas
 - un nombre vacio o con solo espacios no se agrega
